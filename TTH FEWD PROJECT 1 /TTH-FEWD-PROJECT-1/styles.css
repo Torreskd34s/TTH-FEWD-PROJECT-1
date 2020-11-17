@@ -218,7 +218,7 @@ a.social:hover {
   background: black;
   min-height: 30px;
   padding: 10px;
-  position: top;
+  position: static;
   text-align: center;
 }
 
