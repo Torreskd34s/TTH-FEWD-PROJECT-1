@@ -239,7 +239,7 @@ a.social:hover {
   background: white;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
-  transition: all .5s;
+  transition: width 2s, height 2s, transform 2s;
 }
 
 .exp-img {
